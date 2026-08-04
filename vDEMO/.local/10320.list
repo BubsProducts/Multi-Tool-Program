@@ -1,0 +1,11 @@
+All commands are case sensitive.
+-CURRENT COMMANDS-
+help - Returns a list of commands
+quit - Stops the program
+calc - Calculator
+file - Opens "File Manager" / (Look at the end of the list to see how to use)
+INFORMATION - Returns program information
+-UPCOMING COMMANDS-
+notepad
+accconfig
+programconfig
